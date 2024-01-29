@@ -1,83 +1,84 @@
 {
     "files": [
         {
+            "id": "1",
             "name": "Device List.txt",
-            "mimetype" : "txt",
-            "size" : "55 KB",
-            "availableOffline" : false,
-            "lastUpdated" : "",
-            "uri" : ""
+            "mimetype": "txt",
+            "sizeInBytes": "55 KB",
+            "availableOffline": false,
+            "timeStamp": "2010-03-09T19:45:40.135Z",
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Device%20List.txt"
         },
         {
-            "name": "Locations List.txt",
-            "mimetype" : "txt",
-            "size" : "2 MB",
-            "availableOffline" : false,
-            "lastUpdated" : "",
-            "uri" : ""
+            "id": "2",
+            "name": "Location List.txt",
+            "mimetype": "txt",
+            "sizeInBytes": "2 MB",
+            "availableOffline": false,
+            "timeStamp": "2016-08-10T13:30:51.368Z",
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Location%20List.txt"
         },
         {
+            "id": "3",
             "name": "Company Structure.pdf",
-            "mimetype" : "pdf",
-            "size" : "60 MB",
-            "availableOffline" : true,
-            "lastUpdated" : "",
-            "uri" : ""
+            "mimetype": "pdf",
+            "sizeInBytes": "60 MB",
+            "availableOffline": true,
+            "timeStamp": "1996-02-10T15:58:09.633Z",
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Company%20Structure.pdf"
         },
         {
+            "id": "4",
             "name": "Finance Report 2023.docx",
-            "mimetype" : "docx",
-            "size" : "55 MB",
-            "availableOffline" : false,
-            "lastUpdated" : "",
-            "uri" : ""
+            "mimetype": "docx",
+            "sizeInBytes": "55 MB",
+            "availableOffline": false,
+            "timeStamp": "2014-11-09T19:58:44.761Z",
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Finance%20Report%202023.docx"
         },
         {
-            "name": "IT Contact.vCard",
-            "mimetype" : "vCard",
-            "size" : "10 KB",
-            "availableOffline" : true,
-            "lastUpdated" : "",
-            "uri" : ""
+            "id": "5",
+            "name": "IT Contact.vcr",
+            "mimetype": "vCard",
+            "sizeInBytes": "10 KB",
+            "availableOffline": true,
+            "timeStamp": "2010-07-14T19:17:24.076Z",
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/IT%20Contact.vcr"
         },
         {
-            "name": "public.ssh",
-            "mimetype" : "txt",
-            "size" : "1 KB",
-            "availableOffline" : false,
-            "lastUpdated" : "",
-            "uri" : ""
-        },
-        {
+            "id": "6",
             "name": "Kick-off 2024 presentation.pptx",
-            "mimetype" : "pptx",
-            "size" : "10 MB",
-            "availableOffline" : false,
-            "lastUpdated" : "",
-            "uri" : ""
+            "mimetype": "pptx",
+            "sizeInBytes": "10 MB",
+            "availableOffline": false,
+            "timeStamp": "2024-03-10T17:53:01.347Z",
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Kick-off%202024%20presentation.pptx"
         },
         {
+            "id": "7",
             "name": "Kick-off 2024 attendance.xlsx",
-            "mimetype" : "xlsx",
-            "size" : "12 MB",
-            "availableOffline" : false,
-            "lastUpdated" : "",
-            "uri" : ""
+            "mimetype": "xlsx",
+            "sizeInBytes": "12 MB",
+            "availableOffline": false,
+            "timeStamp": "2024-04-18T14:44:23.065Z",
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Kick-off%202024%20attendance.xlsx"
         },
         {
+            "id": "8",
             "name": "Expense Sheet.xls",
-            "mimetype" : "xls",
-            "size" : "5 MB",
-            "availableOffline" : true,
-            "lastUpdated" : "",
-            "uri" : ""
+            "mimetype": "xls",
+            "sizeInBytes": "5 MB",
+            "availableOffline": true,
+            "timeStamp": "1990-04-21T19:48:15.860Z",
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Expense%20Sheet.xls"
         },
         {
+            "id": "9",
             "name": "New File_final",
-            "size" : "15 MB",
-            "availableOffline" : false,
-            "lastUpdated" : "",
-            "uri" : ""
-        },
+            "sizeInBytes": "15 MB",
+            "availableOffline": false,
+            "timeStamp": "2024-01-08T23:29:19.911Z",
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/New%20File_final"
+        }
     ]
 }
