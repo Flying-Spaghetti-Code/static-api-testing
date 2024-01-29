@@ -1,0 +1,83 @@
+{
+    "files": [
+        {
+            "name": "Device List.txt",
+            "mimetype" : "txt",
+            "size" : "55 KB",
+            "availableOffline" : false,
+            "lastUpdated" : "",
+            "uri" : ""
+        },
+        {
+            "name": "Locations List.txt",
+            "mimetype" : "txt",
+            "size" : "2 MB",
+            "availableOffline" : false,
+            "lastUpdated" : "",
+            "uri" : ""
+        },
+        {
+            "name": "Company Structure.pdf",
+            "mimetype" : "pdf",
+            "size" : "60 MB",
+            "availableOffline" : true,
+            "lastUpdated" : "",
+            "uri" : ""
+        },
+        {
+            "name": "Finance Report 2023.docx",
+            "mimetype" : "docx",
+            "size" : "55 MB",
+            "availableOffline" : false,
+            "lastUpdated" : "",
+            "uri" : ""
+        },
+        {
+            "name": "IT Contact.vCard",
+            "mimetype" : "vCard",
+            "size" : "10 KB",
+            "availableOffline" : true,
+            "lastUpdated" : "",
+            "uri" : ""
+        },
+        {
+            "name": "public.ssh",
+            "mimetype" : "txt",
+            "size" : "1 KB",
+            "availableOffline" : false,
+            "lastUpdated" : "",
+            "uri" : ""
+        },
+        {
+            "name": "Kick-off 2024 presentation.pptx",
+            "mimetype" : "pptx",
+            "size" : "10 MB",
+            "availableOffline" : false,
+            "lastUpdated" : "",
+            "uri" : ""
+        },
+        {
+            "name": "Kick-off 2024 attendance.xlsx",
+            "mimetype" : "xlsx",
+            "size" : "12 MB",
+            "availableOffline" : false,
+            "lastUpdated" : "",
+            "uri" : ""
+        },
+        {
+            "name": "Expense Sheet.xls",
+            "mimetype" : "xls",
+            "size" : "5 MB",
+            "availableOffline" : true,
+            "lastUpdated" : "",
+            "uri" : ""
+        },
+        {
+            "name": "New File_final",
+            "size" : "15 MB",
+            "availableOffline" : false,
+            "lastUpdated" : "",
+            "uri" : ""
+        },
+    ]
+}
