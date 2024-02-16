@@ -83,7 +83,7 @@
         {
             "id": "11",
             "name": "PDF30MB",
-            "mime-type": "pdf",
+            "mimetype": "pdf",
             "sizeInBytes": 31457280,
             "timeStamp": "2024-02-01T23:29:19.911Z",
             "uri": "https://link.testfile.org/PDF30MB"
@@ -91,7 +91,7 @@
         {
             "id": "12",
             "name": "PDF100MB",
-            "mime-type": "pdf",
+            "mimetype": "pdf",
             "sizeInBytes": 104857600,
             "timeStamp": "2024-02-01T23:29:19.911Z",
             "uri": "https://link.testfile.org/PDF100MB"
@@ -99,7 +99,7 @@
         {
             "id": "13",
             "name": "PDF200MB",
-            "mime-type": "pdf",
+            "mimetype": "pdf",
             "sizeInBytes": 209715200,
             "timeStamp": "2024-02-01T23:29:19.911Z",
             "uri": "https://link.testfile.org/PDF200MB"
