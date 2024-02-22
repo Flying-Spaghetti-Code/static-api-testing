@@ -8,7 +8,8 @@
             "uploadedOn": "2010-03-09T19:45:40.135Z",
             "updatedOn": "2010-03-09T19:45:40.135Z",
             "sizeInBytes": 53607,
-            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Device%20List.txt"
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Device%20List.txt",
+            "tenantId": "string"
         },
         {
             "id": "2",
@@ -18,7 +19,8 @@
             "uploadedOn": "2016-08-10T13:30:51.368Z",
             "updatedOn": "2016-08-10T13:30:51.368Z",
             "sizeInBytes": 443607,
-            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Location%20List.txt"
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Location%20List.txt",
+            "tenantId": "string"
         },
         {
             "id": "3",
@@ -28,7 +30,8 @@
             "uploadedOn": "1996-02-10T15:58:09.633Z",
             "updatedOn": "1996-02-10T15:58:09.633ZZ",
             "sizeInBytes": 985632,
-            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Company%20Structure.pdf"
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Company%20Structure.pdf",
+            "tenantId": "string"
         },
         {
             "id": "4",
@@ -39,7 +42,8 @@
             "updatedOn": "2014-11-09T19:58:44.761Z",
             "sizeInBytes": 32574,
             "availableOffline": false,
-            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Finance%20Report%202023.docx"
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Finance%20Report%202023.docx",
+            "tenantId": "string"
         },
         {
             "id": "5",
@@ -49,7 +53,8 @@
             "uploadedOn": "2010-07-14T19:17:24.076Z",
             "updatedOn": "2010-07-14T19:17:24.076Z",
             "sizeInBytes": 66985,
-            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/IT%20Contact.vcf"
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/IT%20Contact.vcf",
+            "tenantId": "string"
         },
         {
             "id": "6",
@@ -59,7 +64,8 @@
             "uploadedOn": "2024-03-10T17:53:01.347Z",
             "updatedOn": "2024-03-10T17:53:01.347Z",
             "sizeInBytes": 258741,
-            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Kick-off%202024%20presentation.pptx"
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Kick-off%202024%20presentation.pptx",
+            "tenantId": "string"
         },
         {
             "id": "7",
@@ -69,7 +75,8 @@
             "uploadedOn": "2024-04-18T14:44:23.065Z",
             "updatedOn": "2024-04-18T14:44:23.065Z",
             "sizeInBytes": 658741,
-            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Kick-off%202024%20attendance.xlsx"
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Kick-off%202024%20attendance.xlsx",
+            "tenantId": "string"
         },
         {
             "id": "8",
@@ -79,7 +86,8 @@
             "uploadedOn": "1990-04-21T19:48:15.860Z",
             "updatedOn": "1990-04-21T19:48:15.860Z",
             "sizeInBytes": 95874,
-            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Expense%20Sheet.xls"
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Expense%20Sheet.xls",
+            "tenantId": "string"
         },
         {
             "id": "9",
@@ -88,7 +96,8 @@
             "uploadedOn": "2024-01-08T23:29:19.911Z",
             "updatedOn": "2024-01-08T23:29:19.911Z",
             "sizeInBytes": 32548,
-            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/New%20File_final"
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/New%20File_final",
+            "tenantId": "string"
         },
         {
             "id": "10",
@@ -98,7 +107,8 @@
             "uploadedOn": "2024-02-01T23:29:19.911Z",
             "updatedOn": "2024-02-01T23:29:19.911Z",
             "sizeInBytes": 12792627,
-            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Paper43.pdf"
+            "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Paper43.pdf",
+            "tenantId": "string"
         },
         {
             "id": "11",
@@ -108,7 +118,8 @@
             "uploadedOn": "2024-02-01T23:29:19.911Z",
             "updatedOn": "2024-02-01T23:29:19.911Z",
             "sizeInBytes": 31457280,
-            "uri": "https://link.testfile.org/PDF30MB"
+            "uri": "https://link.testfile.org/PDF30MB",
+            "tenantId": "string"
         },
         {
             "id": "12",
@@ -118,7 +129,8 @@
             "uploadedOn": "2024-02-01T23:29:19.911Z",
             "updatedOn": "2024-02-01T23:29:19.911Z",
             "sizeInBytes": 104857600,
-            "uri": "https://link.testfile.org/PDF100MB"
+            "uri": "https://link.testfile.org/PDF100MB",
+            "tenantId": "string"
         },
         {
             "id": "13",
@@ -128,7 +140,8 @@
             "uploadedOn": "2024-02-01T23:29:19.911Z",
             "updatedOn": "2024-02-01T23:29:19.911Z",
             "sizeInBytes": 209715200,
-            "uri": "https://link.testfile.org/PDF200MB"
+            "uri": "https://link.testfile.org/PDF200MB",
+            "tenantId": "string"
         }
     ]
 }
