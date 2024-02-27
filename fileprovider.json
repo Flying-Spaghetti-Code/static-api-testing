@@ -3,7 +3,7 @@
         {
             "id": "1",
             "name": "Device List.txt",
-            "mimetype": "txt",
+            "mimetype": "text/plain",
             "sizeInBytes": 53607,
             "timeStamp": "2010-03-09T19:45:40.135Z",
             "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Device%20List.txt"
@@ -11,7 +11,7 @@
         {
             "id": "2",
             "name": "Location List.txt",
-            "mimetype": "txt",
+            "mimetype": "text/plain",
             "sizeInBytes": 443607,
             "timeStamp": "2016-08-10T13:30:51.368Z",
             "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Location%20List.txt"
@@ -19,7 +19,7 @@
         {
             "id": "3",
             "name": "Company Structure.pdf",
-            "mimetype": "pdf",
+            "mimetype": "application/pdf",
             "sizeInBytes": 985632,
             "timeStamp": "1996-02-10T15:58:09.633Z",
             "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Company%20Structure.pdf"
@@ -27,7 +27,7 @@
         {
             "id": "4",
             "name": "Finance Report 2023.docx",
-            "mimetype": "docx",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "sizeInBytes": 32574,
             "availableOffline": false,
             "timeStamp": "2014-11-09T19:58:44.761Z",
@@ -44,7 +44,7 @@
         {
             "id": "6",
             "name": "Kick-off 2024 presentation.pptx",
-            "mimetype": "pptx",
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
             "sizeInBytes": 258741,
             "timeStamp": "2024-03-10T17:53:01.347Z",
             "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Kick-off%202024%20presentation.pptx"
@@ -52,7 +52,7 @@
         {
             "id": "7",
             "name": "Kick-off 2024 attendance.xlsx",
-            "mimetype": "xlsx",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "sizeInBytes": 658741,
             "timeStamp": "2024-04-18T14:44:23.065Z",
             "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Kick-off%202024%20attendance.xlsx"
@@ -60,7 +60,7 @@
         {
             "id": "8",
             "name": "Expense Sheet.xls",
-            "mimetype": "xls",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "sizeInBytes": 95874,
             "timeStamp": "1990-04-21T19:48:15.860Z",
             "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Expense%20Sheet.xls"
@@ -75,7 +75,7 @@
         {
             "id": "10",
             "name": "Mapping geographical inequalities in childhood diarrhoeal morbidity and mortality in low-income and middle-income countries, 2000–17: analysis for the Global Burden of Disease Study 2017",
-            "mimetype": "pdf",
+            "mimetype": "application/pdf",
             "sizeInBytes": 12792627,
             "timeStamp": "2024-02-01T23:29:19.911Z",
             "uri": "https://flying-spaghetti-code.github.io/static-api-testing/files/Paper43.pdf"
@@ -83,7 +83,7 @@
         {
             "id": "11",
             "name": "PDF30MB",
-            "mimetype": "pdf",
+            "mimetype": "application/pdf",
             "sizeInBytes": 31457280,
             "timeStamp": "2024-02-01T23:29:19.911Z",
             "uri": "https://link.testfile.org/PDF30MB"
@@ -91,7 +91,7 @@
         {
             "id": "12",
             "name": "PDF100MB",
-            "mimetype": "pdf",
+            "mimetype": "application/pdf",
             "sizeInBytes": 104857600,
             "timeStamp": "2024-02-01T23:29:19.911Z",
             "uri": "https://link.testfile.org/PDF100MB"
@@ -99,7 +99,7 @@
         {
             "id": "13",
             "name": "PDF200MB",
-            "mimetype": "pdf",
+            "mimetype": "application/pdf",
             "sizeInBytes": 209715200,
             "timeStamp": "2024-02-01T23:29:19.911Z",
             "uri": "https://link.testfile.org/PDF200MB"
