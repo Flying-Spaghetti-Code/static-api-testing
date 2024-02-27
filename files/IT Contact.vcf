@@ -1,4 +1,9 @@
-cn:IT Department
-email:it-support@cortado.com
-email:it-incident@cortado.com
-x-id:1234567890
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:
+N;CHARSET=UTF-8:;;;IT Department;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:it-support@cortado.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:it-incident@cortado.com
+TEL;TYPE=WORK,VOICE:1234567890
+REV:2024-02-27T10:02:50.657Z
+END:VCARD
